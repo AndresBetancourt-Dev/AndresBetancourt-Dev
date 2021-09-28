@@ -1,4 +1,7 @@
-# Andrés Betancourt, Software Developer
+<link rel="stylesheet" href="https://raw.githubusercontent.com/AndresBetancourt-Dev/AndresBetancourt-Dev/master/style.css"/>
+<h1 class="Main-Title"> Andrés Betancourt </h1>
+<h2> Software Developer </h2>
+### Technologies
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AndresBetancourt-Dev&theme=calm&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndresBetancourt-Dev&theme=calm)](https://github.com/anuraghazra/github-readme-stats)

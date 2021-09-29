@@ -12,6 +12,8 @@
 
 <br/>
 <br/>
+  <br/>
+<br/>
  
  <h4> Backend </h4>
 <img align="left" alt="Java" title="Java" width="60px" src="https://cdn.worldvectorlogo.com/logos/java.svg" />
@@ -24,6 +26,8 @@
 
 <br/>
 <br/>
+<br/>
+  <br/>
 <br/>
 </main>
 

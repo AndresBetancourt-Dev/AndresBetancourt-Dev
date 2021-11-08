@@ -36,9 +36,9 @@
   <h5> - <a href="https://transmiford.com/">Transmiford</a> : E-commerce of Truck Equiment  </h5>
   <h5> - COBIS Serverless - Santander Perú Banking Sofware</h5>
   <h4>Development</h4>
-  <h5> - <a href="https://investigaciones.usc.edu.co/">Investigaciones</a> : University Web Page </h5>
+  <h5> - <a href="https://investigaciones-usc.vercel.app/">Investigaciones</a> : New University Web Page built with React and Strapi </h5>
   <h5> - <a href="https://play.google.com/store/apps/details?id=com.gamesstackusc&hl=es_CO"> Ejecutapp </a> : Mobile Application </h5>
-  <h5> - <a href="https://nuxlabs.usc.edu.co/">Ejecutapp</a> : Administration Site of Mobile Application </h5>
+  <h5> - <a href="https://ejecutapp-zeta.vercel.app/">Ejecutapp</a> : Administration Site of Mobile Application </h5>
   <h5> - COBIS Serverless - Banistmo Banking Sofware</h5>
   <h5> - Clearminds Webpage </h5>
   <br/>

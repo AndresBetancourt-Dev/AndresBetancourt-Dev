@@ -33,7 +33,6 @@
   <h4>Production</h4>
   <h5> -  <a href="https://investigaciones.usc.edu.co/">Investigaciones</a> : University Web Page </h5>
   <h5> - <a href="https://nuxlabs.usc.edu.co/">Nuxlabs</a> : University Web Page </h5>
-  <h5> - <a href="https://transmiford.com/">Transmiford</a> : E-commerce of Truck Equiment  </h5>
   <h5> - COBIS Serverless - Santander Perú Banking Sofware</h5>
   <h4>Development</h4>
   <h5> - <a href="https://investigaciones-usc.vercel.app/">Investigaciones</a> : New University Web Page built with React and Strapi </h5>

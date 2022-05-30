@@ -34,7 +34,7 @@
   <h5> - <a href="https://nuxlabs.usc.edu.co/">Nuxlabs</a> : University Web Page </h5>
   <h5> - <a href="https://github.com/AndresBetancourt-Dev/Projects/tree/master/COBIS/Santander">COBIS Serverless</a> - Santander Perú Banking Sofware</h5>
   <h5> - COBIS Serverless - Banistmo Banking Sofware</h5>
-  <h5> Blackboard Ultra LMS Software </h5>
+  <h5> - Blackboard Ultra LMS Software </h5>
   <h4>Development</h4>
   <h5> - <a href="https://investigaciones-usc.vercel.app/">Investigaciones</a> : New University Web Page built with React and Strapi </h5>
   <h5> - <a href="https://play.google.com/store/apps/details?id=com.gamesstackusc&hl=es_CO"> Ejecutapp </a> : Mobile Application </h5>

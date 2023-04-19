@@ -1,6 +1,10 @@
 <main>
 <h1 style="text-align: center; width: 100%;"> Andrés Betancourt </h1>
 <h2> Software Developer </h2>
+  
+<a href="https://github.com/AndresBetancourt-Dev/AndresBetancourt-Dev/blob/master/Andres%20Betancourt%20Portfolio.pdf" style="font-size: 30px;">Portfolio PDF</a>
+
+  
 <h3> Technologies </h3>
   
 <h4> Front-End </h4>
